@@ -37,11 +37,17 @@ Automatically builds and deploys a web application whenever code changes are pus
 
 This was a 7-day guided DevOps challenge. Full day-to-day documentation:
 Day 1- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-vscode)
+
 Day 2- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-github)
+
 Day 3- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-codeartifact-updated)
+
 Day 4- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-codebuild-updated)
+
 Day 5- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-codedeploy-updated)
+
 Day 6- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-cloudformation-updated)
+
 Day 7- (https://learn.nextwork.org/jorge_hdez_aws/docs/aws-devops-codepipeline-updated)
 
 ## What I Learned
